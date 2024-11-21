@@ -1,6 +1,6 @@
-## This code is for GCL-SGM: Self-supervised Sub-Graph Matching via Dense-Aware Graph Contrastive Learning
+## This code is for ADMatcher: A Self-supervised SubGraph Matching via Adaptive Dense-Aware Graph Contrastive Learning
 
-This code is for AAAI25
+This code is for ADMatcher
 
 ### reuqire:
 pytorch
@@ -14,3 +14,4 @@ python main.py
 
 ### Result:
 ./log
+
